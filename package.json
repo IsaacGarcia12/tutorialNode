@@ -1,0 +1,29 @@
+{
+  "name": "nodewebapp",
+  "version": "1.0.0",
+  "description": "Mi primer app de nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacGarcia12/tutorialNode.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "app",
+    "express"
+  ],
+  "author": "Isaac Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacGarcia12/tutorialNode/issues"
+  },
+  "homepage": "https://github.com/IsaacGarcia12/tutorialNode#readme"
+}
