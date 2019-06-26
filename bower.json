@@ -1,0 +1,26 @@
+{
+  "name": "nodewebapp",
+  "description": "Mi primer app de nodejs",
+  "main": "app.js",
+  "authors": [
+    "Isaac Garcia"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "web",
+    "app",
+    "express"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}

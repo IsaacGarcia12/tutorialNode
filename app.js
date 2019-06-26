@@ -6,6 +6,7 @@ var port = 5000;    //variable global que asigna un puerto, para asignar un puer
 
 app.use(express.static('public'));  //Aqui se le dice a express que esta carpeta es estatica y de aqui se puede hacer rutas
 app.use(express.static('src/views'));
+app.use(express.static('bower_components'));
 
 app.get('/', function(req, res){
     res.send('Mi primer app con nodejs y express, ya puedo seguir!! ^w^');
